@@ -1,0 +1,16 @@
+package model;
+
+public enum SpritePosition {
+	WALL,
+	DIRT,
+	AIR,
+	ROCK,
+	DIAMOND,
+	UNDEFINED,
+	DOOR,
+	AMOEBA,
+	SPECIAL_WALL,
+	MONSTER_SCORE,
+	MONSTER_DIAMOND,
+	EXPLOSION
+}
